@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Palvainaveenkumar
-- 👀 I’m interested in Web development
+- 👀 I’m interested in IT field
 - 🌱 I’m currently learning Python Full Stack
-- 💞️ I’m looking job on Frontend developer
+- 💞️ I’m looking job on Python role
 - 📫 How to reach me naveenpalvai2001@gmail.com
-- 😄 Pronouns: Frontend deveoper, web development, python full stack development
+- 😄 Pronouns: Frontend deveoper, web development, python full stack development,MYSQL.
 - ⚡ Fun fact: ..Life Dedicated to development😄
 
 <!---
